@@ -32,8 +32,6 @@
 QQ:`SunMi 3020958115`
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 ![SunMiX](https://cdn130.picsart.com/324709302005201.jpg?type=webp&to=min&r=640)
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)

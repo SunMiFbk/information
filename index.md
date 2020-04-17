@@ -1,14 +1,14 @@
-## 欢迎来到SunMi的个人主页
+## Modified by SunMiX
 
 
 ### 相关信息
 ```markdown
-1.产品需要付费购买，部分产品免费。
-2.付费产品扫描二维码进行付费后在此页面刷新。
-3.此页面将会在您付费后产生密码。
+1.此软件由SunMiX修改
+2.修改内容
+3.修改内容
 ```
 
-`当前状态` <font color="#FF0000">尚未付费！</font>
+`当前状态` <font color="#FF0000">运行正常！</font>
 
 ### 文本信息
 ```
@@ -22,33 +22,6 @@
 ### 免费文件下载
 [文件下载](https://www.lanzous.com/b0159arve)
 
-
-### CODE
-
- [TEST](https://github.com/SunMiFbk/SunMi/settings). `_config.yml` 
-```markdown
-
-Syntax highlighted code block
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-- Bulleted
-
-- List
-
-1. Numbered
-
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
 
 ### Support or Contact
 

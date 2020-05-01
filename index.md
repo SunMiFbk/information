@@ -17,12 +17,6 @@
 ```
 没有信息提供
 ```
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 ### 付费文件下载
 [文件下载](https://www.lanzous.com/b0159ajni).
 

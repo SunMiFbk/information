@@ -3,7 +3,7 @@
 <audio id="audio" controls="" preload="auto">
 <source id="mp3" src="https://m10.music.126.net/20200501165401/86d07d37a64f6fa5d813589a5fa2936c/yyaac/5559/035c/030c/b383e52b6f46a4f15f7d4fa02af4f7e1.m4a">
 </audio>
-
+<audio src="https://m10.music.126.net/20200501165401/86d07d37a64f6fa5d813589a5fa2936c/yyaac/5559/035c/030c/b383e52b6f46a4f15f7d4fa02af4f7e1.m4a" controls autoplay></audio>
 ### 相关信息
 ```markdown
 1.此软件由SunMiX修改

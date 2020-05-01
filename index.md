@@ -1,6 +1,8 @@
 ## Modified by SunMiX
 
-<audio autoplay="autoplay" src="https://m10.music.126.net/20200501172333/f3849ed7107c3c375d3b0542942c4853/yyaac/5559/035c/030c/b383e52b6f46a4f15f7d4fa02af4f7e1.m4a"></audio>
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://m10.music.126.net/20200501172333/f3849ed7107c3c375d3b0542942c4853/yyaac/5559/035c/030c/b383e52b6f46a4f15f7d4fa02af4f7e1.m4a">
+      </audio>
 
 ### 相关信息
 ```markdown

@@ -1,21 +1,21 @@
 ## Modified by SunMiX
-
+>作者的话
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="https://m10.music.126.net/20200501172333/f3849ed7107c3c375d3b0542942c4853/yyaac/5559/035c/030c/b383e52b6f46a4f15f7d4fa02af4f7e1.m4a">
       </audio>
 
-### 相关信息
-```markdown
+### 通用修改内容
+```
 1.此软件由SunMiX修改
-2.修改内容
-3.修改内容
+2.去除所有广告
+3.去除强制更新和验证
 ```
 
 `当前状态` <font color="#FF0000">运行正常！</font>
 
 ### 文本信息
 ```
-没有信息提供或者没有付费
+没有信息提供
 ```
 
 ### 付费文件下载
@@ -30,7 +30,7 @@
 
 此页面上的内容有问题吗？
 
-您可以通过以下方式联系我们
+可以通过以下方式联系我们
 
 QQ:`SunMi 3020958115`
 

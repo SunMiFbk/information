@@ -4,7 +4,7 @@
       <source id="mp3" src="http://m8.music.126.net/20200501190631/23f5e26d63633ec2aba525348296b639/ymusic/0253/5359/530e/594e10a64ed3e5784d76dd02372063dc.mp3">
       </audio>
 ##测试
-<video id="video" controls="" preload="none" poster="封面网址">
+<video id="video" controls="" preload="none" poster="https://guides.github.com/activities/hello-world/branching.png">
       <source id="mp4" src="视频地址" type="video/mp4">
       </video>
 ### 通用修改内容

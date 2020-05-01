@@ -5,10 +5,8 @@
       </audio>
 
 <video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-
-      <source id="mp4" src="https://v3-default.ixigua.com/2e8d721dd633d5a5733b699aec24768b/5eabf61d/video/tos/cn/tos-cn-ve-15/4ddb76a85ca54fe280f335e9bd9bfb5b/?a=1217&br=0&bt=1225&cr=0&cs=0&dr=0&ds=3&er=&l=20200501171236010012035096040AFD4E&lr=&qs=0&rc=amc8M2lrNDxnczMzOmkzM0ApZTQ8Nzc5OTw6N2c1MzM2aWcwMWxqbl5sXmhfLS00LS9zczYxMjUyXmAxX2AwYjMxX2E6Yw%3D%3D&vl=&vr=" type="video/mp4">
-
-      </video>
+<source id="mp4" src="https://v3-default.ixigua.com/2e8d721dd633d5a5733b699aec24768b/5eabf61d/video/tos/cn/tos-cn-ve-15/4ddb76a85ca54fe280f335e9bd9bfb5b/?a=1217&br=0&bt=1225&cr=0&cs=0&dr=0&ds=3&er=&l=20200501171236010012035096040AFD4E&lr=&qs=0&rc=amc8M2lrNDxnczMzOmkzM0ApZTQ8Nzc5OTw6N2c1MzM2aWcwMWxqbl5sXmhfLS00LS9zczYxMjUyXmAxX2AwYjMxX2E6Yw%3D%3D&vl=&vr=" type="video/mp4">
+</video>
 ### 相关信息
 ```markdown
 1.此软件由SunMiX修改

@@ -1,7 +1,8 @@
 ## Modified by SunMiX
 
-
-<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=445154960&type=2&auto=0&width=320&height=66"type="application/x-shockwave-flash"></object>
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="https://m10.music.126.net/20200501165401/86d07d37a64f6fa5d813589a5fa2936c/yyaac/5559/035c/030c/b383e52b6f46a4f15f7d4fa02af4f7e1.m4a">
+</audio>
 
 ### 相关信息
 ```markdown

@@ -9,6 +9,7 @@
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FV0FVeEhlc0tRTkdrV2p0cEl5a1VaSUJQX0pVaERfcFlPaHVNWGZGZ0ZvQ05BP2U9OU1mQ2ZW.mp3">
       </audio>
+
 ♥随机视频生成
 <iframe src="//player.bilibili.com/player.html?aid=882747701&bvid=BV1oK4y1r7Ds&cid=174254752&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <iframe src="//player.bilibili.com/player.html?aid=752519324&bvid=BV1mk4y1d7BV&cid=170571779&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -29,7 +30,7 @@
 
 ### 软件升级
 ```
-你使用的修改版本没有更新
+你使用的版本没有更新
 ```
 
 
@@ -43,7 +44,7 @@
 QQ:`SunMi 3020958115`
 
 
-[SunMiX](!https://cdn130.picsart.com/324709302005201.jpg?type=webp&to=min&r=640)
+![SunMiX](https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FWUtaLU5IU0NrcEV0NVNmY1Zucm5fb0J4VmN3WGhOUEc2dUh3X3NaX0dGYmhRP2U9TkRzTDR2.jpg)
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
@@ -51,5 +52,5 @@ QQ:`SunMi 3020958115`
 捐赠 or 加群
 
 一切都是自愿，加群可以获得更多优秀资源，后续更新学习交流等。
-
+捐赠。。。一般人想都不会想吧_(:з」∠)_
 

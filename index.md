@@ -1,5 +1,5 @@
 ## Modified by SunMiX
-♥随机音乐
+♥随机音乐生成
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FVndBYnl1UVVkTk5vaTgzQm9MbXBGQUJzMVRYcld5QUU2Y0xWYUNRM0JjTnRRP2U9VjJWdkwz.mp3">
       </audio>
@@ -9,7 +9,7 @@
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FV0FVeEhlc0tRTkdrV2p0cEl5a1VaSUJQX0pVaERfcFlPaHVNWGZGZ0ZvQ05BP2U9OU1mQ2ZW.mp3">
       </audio>
-♥随机视频
+♥随机视频生成
 <iframe src="//player.bilibili.com/player.html?aid=882747701&bvid=BV1oK4y1r7Ds&cid=174254752&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <iframe src="//player.bilibili.com/player.html?aid=752519324&bvid=BV1mk4y1d7BV&cid=170571779&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <iframe src="//player.bilibili.com/player.html?aid=37286416&bvid=BV18t411D7bT&cid=65529195&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -21,15 +21,15 @@
 ### 通用公告
 ```
 1.此软件由SunMiX修改
-2.去除所有广告
-3.去除强制更新和验证
+2.此软件仅供学习和交流使用禁止用于商业用途，请下载后24小时内删除
+3.此软件或此软件内的任何信息侵犯到您的利益请通过此页面的联系方式联系我，我将第一时间处理
 ```
 
 `当前状态` <font color="#FF0000">运行正常！</font>
 
 ### 软件升级
 ```
-你使用的版本已是最新
+你使用的修改版本没有更新
 ```
 
 
@@ -48,10 +48,8 @@ QQ:`SunMi 3020958115`
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-捐赠 or 付费
+捐赠 or 加群
 
-[微信支付](https://static.wenshushu.cn/uf/26lmbli5qav/img?st=d3NzOjI2M2twNGlhbzJ2LkRTRUt0&op=zmmw-1200)
-[支付宝支付](https://static.wenshushu.cn/uf/26lmbli5qav/img?st=d3NzOjI2M2twNGlhbzJ2LkRTRUt0&op=zmmw-1200)
-
+一切都是自愿，加群可以获得更多优秀资源，后续更新学习交流等。
 
 

@@ -9,6 +9,10 @@
 3.此软件或此软件内的任何信息侵犯到您的利益请通过此页面的联系方式联系我，我将第一时间处理
 ```
 
+`需要任何资源都可以联系我，联系方式本页有`  
+`如果需要破解软件或者修改弹窗、去除更新等也可以把软件提交给我`  
+`PS需求也可找我`
+
 `当前状态` <font color="#FF0000">运行正常！</font>
 
 ### ♥软件升级
@@ -46,19 +50,19 @@ Ps
 
 <audio id="audio" controls="" preload="none">
 
-      <source id="mp3" src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FVndBYnl1UVVkTk5vaTgzQm9MbXBGQUJzMVRYcld5QUU2Y0xWYUNRM0JjTnRRP2U9VjJWdkwz.mp3">
+      <source id="mp3" src="！https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FVndBYnl1UVVkTk5vaTgzQm9MbXBGQUJzMVRYcld5QUU2Y0xWYUNRM0JjTnRRP2U9VjJWdkwz.mp3">
 
       </audio>
 
 <audio id="audio" controls="" preload="none">
 
-      <source id="mp3" src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FWHFOdURmT0hrWkpzM2Uyc0NZeTM4b0J5MmtKR1JqX1BRbTFBX3dkSEhBaC1BP2U9ODQ5and1.mp3">
+      <source id="mp3" src="！https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FWHFOdURmT0hrWkpzM2Uyc0NZeTM4b0J5MmtKR1JqX1BRbTFBX3dkSEhBaC1BP2U9ODQ5and1.mp3">
 
       </audio>
 
 <audio id="audio" controls="" preload="none">
 
-      <source id="mp3" src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FV0FVeEhlc0tRTkdrV2p0cEl5a1VaSUJQX0pVaERfcFlPaHVNWGZGZ0ZvQ05BP2U9OU1mQ2ZW.mp3">
+      <source id="mp3" src="！https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FV0FVeEhlc0tRTkdrV2p0cEl5a1VaSUJQX0pVaERfcFlPaHVNWGZGZ0ZvQ05BP2U9OU1mQ2ZW.mp3">
 
       </audio>
       

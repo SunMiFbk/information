@@ -18,7 +18,7 @@
 ```
 学习软件下载地址：
 
-番茄社区 https://wwe.lanzous.com/iEUsGloryub
+番茄社区 https://wwe.lanzous.com/iPOJflp1xkf
 
 香蕉视频 https://wwe.lanzous.com/iEVn4lo3jzc
 

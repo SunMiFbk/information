@@ -4,7 +4,7 @@
 
 ### ♥通用公告
 ```
-1.此软件由SunMiX修改
+1.软件激活联系SunMi
 2.仅供学习和交流使用禁止用于商业用途，请下载后24小时内删除
 3.此软件或此软件内的任何信息侵犯到您的利益请通过此页面的联系方式联系我，我将第一时间处理
 ```
@@ -12,83 +12,35 @@
 `需要任何资源都可以联系我，联系方式本页有`  
 `如果需要破解软件或者修改弹窗、去除更新等也可以把软件提交给我`  
 `并不是所有软件都可以成功修改，包括但不限于有加固或有服务器验证的软件`  
-`本人正在学习软件逆向安全技术，软件修改仅用于软件安全保护方面技术交流`  
-`PS需求也可找我`
 
 `当前状态` <font color="#FF0000">运行正常！</font>
 
 ### ♥软件升级
 ```
-你使用的版本没有更新
+学习软件下载地址：
+
+番茄社区 https://wwe.lanzous.com/iEUsGloryub
+
+香蕉视频 https://wwe.lanzous.com/iEVn4lo3jzc
+
+草莓视频 https://wwe.lanzous.com/i1DXYlo3jtg
+
+快喵 https://wwe.lanzous.com/is4ITlo3jna
+
+91短视频  https://wwe.lanzous.com/iRmdDlo3ihi
+
+绿巨人 https://wwe.lanzous.com/iob7Qlmccah
+
+富二代 https://wwe.lanzous.com/ibHqFlktlkb
+
+迷妹漫画 https://wwe.lanzous.com/iNH4Xlkb4hi
+
+黄瓜视频 https://wwe.lanzous.com/ilrS4lkb47i
+
+fulao2  https://wwe.lanzous.com/iMAnglkb3qb
 ```
 
 
 
 ### ♥Support or Contact
 
-此页面上的内容有问题吗？  
-可以通过以下方式联系我们
-
-QQ:`暂不提供`  
-7723`@SunMi`  
-Twitter`@SunMiX`  
-吾爱破解论坛`@SunMiX`  
-学破解论坛`@SunMiX`  
-飘云阁论坛`@SunMiX`  
-看雪论坛`@SunMiX`  
-
-![SunMiX](https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FWUtaLU5IU0NrcEV0NVNmY1Zucm5fb0J4VmN3WGhOUEc2dUh3X3NaX0dGYmhRP2U9TkRzTDR2.jpg)
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-♥捐赠 or 加群
-
-加群可以获得更多优秀资源，后续更新和方便学习交流等。
-捐赠。。。随便_(:з」∠)_
-
-Ps  
-`此页面主要用于提示用户升级或者获取一些公告内容`  
-`随机音乐来源于本人的OneDrive for Business`  
-`随机视频来源于B站`  
-`音乐和视频仅供娱乐，内容随机引用，不包含针对性或特殊性`
-
-♥不正经的随机音乐
-
-<audio id="audio" controls="" preload="none">
-
-      <source id="mp3" src="！https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FVndBYnl1UVVkTk5vaTgzQm9MbXBGQUJzMVRYcld5QUU2Y0xWYUNRM0JjTnRRP2U9VjJWdkwz.mp3">
-
-      </audio>
-
-<audio id="audio" controls="" preload="none">
-
-      <source id="mp3" src="！https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FWHFOdURmT0hrWkpzM2Uyc0NZeTM4b0J5MmtKR1JqX1BRbTFBX3dkSEhBaC1BP2U9ODQ5and1.mp3">
-
-      </audio>
-
-<audio id="audio" controls="" preload="none">
-
-      <source id="mp3" src="！https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9qaWE2NjYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3VubWl4X3hreF9tZS9FV0FVeEhlc0tRTkdrV2p0cEl5a1VaSUJQX0pVaERfcFlPaHVNWGZGZ0ZvQ05BP2U9OU1mQ2ZW.mp3">
-
-      </audio>
-      
-♥不正经的随机视频
-
-<iframe src="//player.bilibili.com/player.html?aid=882747701&bvid=BV1oK4y1r7Ds&cid=174254752&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=752519324&bvid=BV1mk4y1d7BV&cid=170571779&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=37286416&bvid=BV18t411D7bT&cid=65529195&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=2274779&bvid=BV1vs411D741&cid=65090448&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=370432416&bvid=BV1qZ4y1W77x&cid=184841601&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=82830476&bvid=BV1JJ411V7kk&cid=141710281&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=75504160&bvid=BV18J411S7NH&cid=129160573&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=582825207&bvid=BV1m64y1T7j1&cid=181441159&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<a href="https://00make.github.io">神奇链接</a>
